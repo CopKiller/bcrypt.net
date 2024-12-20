@@ -6,7 +6,7 @@
     <PackageId>BCrypt.Net-Next</PackageId>
     <Title>BCrypt .Net</Title>
 
-    <TargetFrameworks>net6.0;net8.0;net9.0;</TargetFrameworks>
+    <TargetFramework>net8.0</TargetFramework>
     <OutputTypeEx>Library</OutputTypeEx>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
     <IncludeSource>false</IncludeSource>
